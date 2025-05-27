@@ -1,14 +1,14 @@
 # URSA - P2P Decentralized Exchange
 
 ## Overview
-URSA is a peer-to-peer decentralized exchange designed for secure, anonymous, and unrestricted crypto trading. Built to address limitations in Iran’s centralized exchanges, such as government oversight, KYC requirements, and restrictive transaction limits (e.g., 25M IRR deposit cap, slow bank withdrawals via Paya cycles), URSA enables direct wallet-to-wallet trading without intermediaries.
+URSA is a peer-to-peer decentralized exchange designed for secure, anonymous, and unrestricted crypto trading. Built to address limitations in Iran’s centralized exchanges, such as government oversight, KYC requirements, and restrictive transaction limits (e.g., 25M IRT deposit cap, slow bank withdrawals via Paya cycles), URSA enables direct wallet-to-wallet trading without intermediaries.
 
 ## Features
 - Anonymous trading with no KYC (only username and email required)
-- Unrestricted transactions (e.g., up to 200M IRR via IBAN for Tether purchases)
+- Unrestricted transactions (e.g., up to 200M IRT via IBAN for Tether purchases)
 - Fast card-to-card transfers for large trades, bypassing slow Paya cycles
 - Privacy-focused: user data remains confidential
-- Future: TrueToman (TT) token with 1:1 IRR peg for inflation-resistant swaps
+- Future: TrueToman (TT) token with 1:1 IRT peg for inflation-resistant swaps
 - Long-term: Deflatra (DFT) token to preserve purchasing power globally against inflation
 
 ## Vision
